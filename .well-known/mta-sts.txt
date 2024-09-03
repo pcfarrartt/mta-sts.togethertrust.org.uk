@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
 max_age: 86401
-mx: .
+mx: togethertrust-org-uk.mail.protection.outlook.com
